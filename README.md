@@ -1,1 +1,1 @@
-# ELEC5304-Project-2
+# Image classification by CNN
